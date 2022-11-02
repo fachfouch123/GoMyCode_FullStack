@@ -1,0 +1,351 @@
+
+
+/* <!------------------------- LOGO AND NAV --------------------------------> */
+#logo
+{
+    width: 100px ;
+    height: 100px;
+    margin: 0%;
+}
+.logoandnav h1,.logoandnav p 
+  {
+    margin: 250px;
+    /* justify-items:end; */
+    display: inline;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: bold;
+    text-decoration: overline;
+    
+
+
+
+  }
+  .logoandnav a:link
+{
+    margin: 10px;
+    color: #f44336;
+    background-color: #cbf436;
+} 
+
+.logoandnav a:visited 
+{   
+    color: rgb(109, 125, 187);
+    padding: 15px 25px;
+    text-align: right;
+    text-decoration: none;
+    display: inline-block;
+}
+.logoandnav a:hover
+{
+    color: rgb(191, 71, 255);
+}  
+.logoandnav a:active 
+{
+    background-color: rgb(21, 0, 255);
+} 
+
+/* <!------------------------- Introduction --------------------------------> */
+#Introduction h1
+{
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: bold;
+    font-weight:100-200;
+    text-decoration:underline;
+
+    display: block;
+    border: 10px solid red;
+    margin: 10px;
+    text-align: center;
+    font-weight: bold;
+    background-color: rgb(0, 0, 0);
+    color: #fff;
+    padding: 0.5cm;
+    /* padding: #cbf436;  */
+    width: 450px;
+    /* height: 50px; */
+    /* border: 1px solid red; */
+    /* display: inline; */
+
+}
+
+/* <!------------------------- ABOUT ------------------------------------------> */
+#about i
+{
+    display: block;
+    border: 10px solid red;
+    background-color: rgb(0, 0, 0);
+    color: #fff;
+    padding: 0.5cm;
+    width: 450px;
+
+}
+#about p
+{
+    padding: 0.5cm;
+    width: 450px;
+    margin: 100px; display: inline;
+}
+#about table
+{
+    background-color: #cbf436;
+    border-color: aqua;
+
+}
+/* <!------------------------- resume ----------------------------------------> */
+#resume iframe
+{
+    width:560px;
+    height:315px;
+}
+#resume i
+{
+    display: block;
+    border: 10px groove red;
+    background-color: rgb(0, 0, 0);
+    color: #fff;
+    padding: 0.5cm;
+    width: 450px;
+
+}
+#resume h2
+{
+    display: block;
+    border: 10px ridge blueviolet;
+    padding: 0.5cm;
+    width: 450px;
+    background: rgb(188, 219, 188);
+    
+}
+/* <!------------------------- Work ----------------------------------------> */
+#work div{
+    display: inline-block ;
+    height: 250px;
+    width: 400px;
+    background: rgb(94, 231, 255);
+    color: rgb(0, 0, 0);
+    border: 5px solid violet;
+    margin: 20px;
+}
+#work li
+{
+    margin: 60px;
+
+}
+#work p
+{
+    margin: 25px;
+    display: inline;
+
+}
+#work center
+{
+    margin: auto;
+    display:block;
+    border: 10px ridge red;
+    background-color: rgb(0, 0, 0);
+    color: #fff;
+    width: 450px;
+ 
+}
+#work center+h1
+{
+    margin: auto;
+    display:block;
+    border: 10px ridge rgb(251, 255, 36);
+    background-color: rgb(175, 195, 107);
+    color: rgb(0, 0, 0);
+    width: 450px;
+ 
+}
+
+/* <!------------------------- CONTACT ----------------------------------------> */
+
+#div_contact
+{
+    margin: 10px;
+    background-color: #cbf436;
+}
+#contact h4
+{
+    display:block;
+    border: 10px ridge rgb(255, 183, 0);
+    background-color: rgb(225, 150, 252);
+    color: #fff;
+    width: 1650px;
+    margin: auto;
+}
+#contact i
+{
+    display: block;
+    border: 10px groove red;
+    background-color: rgb(0, 0, 0);
+    color: #fff;
+    padding: 0.5cm;
+    width: 450px;
+
+}
+#contact center+h1
+{
+    margin: 5px;
+    display:block;
+    border: 10px ridge rgb(251, 255, 36);
+    background-color: rgb(175, 195, 107);
+    color: rgb(0, 0, 0);
+    width: 450px;
+ 
+}
+#name p{margin: 80px; display: inline;}
+#Last p{margin: 62.5px; display: inline;}
+#company p{margin: 44.5px; display: inline;}
+#mobile p{margin: 22px; display: inline;}
+#email p{margin:  49.5px; display: inline;}
+#desired p{margin: 33.5px; display: inline;}
+#purpose p{margin: 42.5px; display: inline;}
+
+/* <!------------------------- FOOTER ----------------------------------------> */
+
+
+#footer a:link
+{
+    margin: 10px;
+    color: #f44336;
+    background-color: #cbf436;
+} 
+
+#footer a:visited 
+{   
+    color: rgb(109, 125, 187);
+    padding: 15px 25px;
+    text-align: right;
+    text-decoration: none;
+    display: inline-block;
+}
+#footer a:hover
+{
+    color: rgb(191, 71, 255);
+}  
+#footer a:active 
+{
+    background-color: rgb(21, 0, 255);
+
+}
+#footer p 
+  {
+    margin:20px;
+    display: inline-flex;
+
+  }
+#footer p 
+  {
+    margin:30px;
+    display: inline-flex;
+
+  }
+#footer a 
+  {
+    
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: bold;
+    background-color: #cbf436;
+    border: 5px solid red;
+    padding: 0.5cm;
+
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* 
+.class h2{color:red}
+/* #one h1{color: rgb(39, 114, 114);}
+#one h2{color: aqua;} */
+/* .div .div2 #one h2{
+    color:rgb(240, 211, 211);
+    border: 10px solid rgb(55, 255, 0);
+}
+.div .div2 #one h1{
+    color:rgb(170, 227, 116);
+    border: 10px ridge rgb(55, 255, 0);
+}
+.div .div2 #one h1,h2{display: inline;}
+
+.div h1{
+    border: 1px solid rgb(55, 28, 28);
+} */ */
+
+/* h1,h2{
+    display: inline;
+    border: 1px solid red;} */
+
+    /*.test {
+    font-size: large;
+    margin: 10px;
+    border: 10px;
+    color: blue;
+}
+.div2 h2{color:blueviolet}
+p{
+    font-size: large;
+    margin: 10px;
+    border: 10px;
+    color: rgb(255, 132, 0);
+}
+
+
+a:link, a:visited {
+  background-color: #f44336;
+  color: white;
+  padding: 15px 25px;
+  text-align: right;
+  text-decoration: none;
+  display: inline-block;
+}
+a:hover, a:active {
+    background-color: red;
+}
+
+
+.logo_nav > p {
+    color: blue;
+            }*/
